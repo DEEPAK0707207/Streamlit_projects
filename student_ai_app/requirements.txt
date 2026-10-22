@@ -1,0 +1,10 @@
+
+streamlit
+psycopg2-binary
+bcrypt
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
+joblib

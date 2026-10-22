@@ -1,7 +1,9 @@
 
-__pycache__/
-*.pyc
-.venv/
-.env
 .streamlit/secrets.toml
-lab10/.streamlit/secrets.toml
+auth_app/.streamlit/secrets.toml
+student_ai_app/.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env

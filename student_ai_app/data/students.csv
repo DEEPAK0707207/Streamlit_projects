@@ -1,0 +1,12 @@
+
+student_id,name,branch,year,attendance,marks,cgpa,study_hours
+101,Rahul,CSE,1,92,85,8.5,5
+102,Priya,CSE,2,88,91,9.1,7
+103,Arjun,ECE,1,75,68,7.0,3
+104,Ananya,AIML,2,95,94,9.4,8
+105,Kiran,ECE,3,81,78,7.8,4
+106,Divya,AIML,1,90,89,8.9,6
+107,Vikram,CSE,3,70,65,6.8,2
+108,Meena,AIML,2,86,82,8.2,5
+109,Sai,ECE,2,93,88,8.8,6
+110,Neha,CSE,1,84,76,7.6,4
